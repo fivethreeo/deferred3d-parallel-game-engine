@@ -1,0 +1,42 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Material.001
+Ns 1
+Ka 0.000000 0.000000 0.000000
+Kd 0.0 1.0 0.000000
+Ks  0.5 0.5 0.5
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd wall007_diffuse.tga
+
+newmtl Material.002
+Ns 1
+Ka 0.000000 0.000000 0.000000
+Kd 1.0 0.000000 0.000000
+Ks  0.1 0.1 0.1
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd wall007_diffuse.tga
+
+newmtl Material.003
+Ns 1
+Ka 0.000000 0.000000 0.000000
+Kd 1 1 1
+Ks  0.5 0.1 0.1
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd wall007_diffuse.tga
+
+newmtl Material.004
+Ns 1
+Ka 0.000000 0.000000 0.000000
+Kd 1 1 1
+Ks  0.1 0.1 0.1
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd wall007_diffuse.tga

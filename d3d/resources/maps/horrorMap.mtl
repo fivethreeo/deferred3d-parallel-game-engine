@@ -1,0 +1,42 @@
+# Generated 3DWS Material File
+
+newmtl wall007_diffuse
+Ns 1
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ni 1.0
+d 1.0
+illum 2
+map_Kd wall007_diffuse.tga
+
+newmtl synthetic_tiles_04_diffuse
+Ns 1
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ni 1.0
+d 1.0
+illum 2
+map_Kd synthetic_tiles_04_diffuse.png
+
+newmtl wall011_diffuse
+Ns 1
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ni 1.0
+d 1.0
+illum 2
+map_Kd wall011_diffuse.tga
+
+newmtl floor007_diffuse
+Ns 1
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ni 1.0
+d 1.0
+illum 2
+map_Kd floor007_diffuse.tga
+
